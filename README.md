@@ -9,8 +9,8 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🌱 I’m currently focusing on Competitive Programming
+-->
 - 📫 How to reach me: sailor.ryd@gmail.com
 
 ### Languages and Tools:
