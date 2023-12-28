@@ -1,4 +1,4 @@
-### Hi there, I am Riyad👋
+### Hi there, I am Riyad
 
 
 <!---
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 - 🌱 I’m currently focusing on Competitive Programming
 -->
-- 📫 How to reach me: sailor.ryd@gmail.com
+- 📫 How to reach me: rbriyad@gmail.com
 
 ### Languages and Tools:
 <hr/>
